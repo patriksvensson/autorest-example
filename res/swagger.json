@@ -1,0 +1,1 @@
+{"swagger":"2.0","info":{"version":"v1","title":"Sample API"},"paths":{"/api/Foo":{"get":{"tags":["Foo"],"operationId":"Foos_GetAll","consumes":[],"produces":["text/plain","application/json","text/json"],"parameters":[],"responses":{"200":{"description":"Success","schema":{"uniqueItems":false,"type":"array","items":{"type":"string"}}}}}}},"definitions":{},"tags":[]}
